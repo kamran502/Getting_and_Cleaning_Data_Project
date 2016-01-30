@@ -40,5 +40,5 @@ names(subject) <- "subject"
 data <- cbind(x, y, subject)
 
 #Coursera requirement 5: From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-averages_data <- ddply(data, .(subject, activity), function(x) colMeans(x[, 1:66]))
-write.table(averages_data, "averages_data.txt", row.name=FALSE)
+tidy_data <- ddply(data, .(subject, activity), function(x) colMeans(x[, 1:66]))
+write.table(tidy_data, "tidy_data.txt", row.name=FALSE)
