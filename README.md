@@ -12,5 +12,5 @@ Repository has following files including this file (README.md):
 - CodeBook.md, it describes the work that is being performed to achieve the goal.
 - averages_data.txt, this is an output file generated after running the R script.
 
-- Dataset, folder the includes all of the required data sets for this assignment. 
-  THIS FOLDER IS NOT BEGING INCLUDED BECAUSE OF THE SIZE. DATA CAN ALSO BE DOWNLOADED FROM ABOVE URL.
+- Dataset, folder that includes all of the required data sets for this assignment. 
+  Because of the size of data this folder is not being uploaded. Please download the zip file from above URL and unzip the folder in workiing directory and also rename the folder to "Dataset"
