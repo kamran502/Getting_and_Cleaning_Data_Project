@@ -11,4 +11,6 @@ Repository has following files including this file (README.md):
 - run_analysis.R, this is a R programming script that performs cleansing and staging of data and then performs analysis on data.
 - CodeBook.md, it describes the work that is being performed to achieve the goal.
 - averages_data.txt, this is an output file generated after running the R script.
-- Dataset, folder the includes all of the required data sets for this assignment.
+
+- Dataset, folder the includes all of the required data sets for this assignment. 
+  THIS FOLDER IS NOT BEGING INCLUDED BECAUSE OF THE SIZE. DATA CAN ALSO BE DOWNLOADED FROM ABOVE URL.
